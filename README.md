@@ -8,4 +8,4 @@ How To Install
 
 `brew tap bjepson/homebrew-tap`
 
-`brew install bjepson/mutt --with-compressed-folders-patch`
+`brew install bjepson/homebrew-tap/mutt --with-compressed-folders-patch`
